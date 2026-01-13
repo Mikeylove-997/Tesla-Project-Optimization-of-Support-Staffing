@@ -5,7 +5,7 @@ Please note that the number of agents must be an integer in practice.
 
 # My role
 
-Since this is a group project, everyone gives the equal committment to the completion of tasks. I was assigned on the first scenario includes the initial two questions. Please see the first R script attached in this repo.
+This was a group project, and all team members contributed equally to the completion of the work. I was responsible for the first scenario, which included addressing the initial two research questions. Please refer to the first R script in this repository for my contribution.
 
 
 
