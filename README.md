@@ -4,8 +4,7 @@ This project allows me to leverage R to determine the optimal number of call cen
 Please note that the number of agents must be an integer in practice.
 
 # My role
-
-This was a group project, and all team members contributed equally to the completion of the work. I was responsible for the first scenario, which included addressing the initial two research questions. Please refer to the first R script in this repository for my contribution.
+This is a group project, and all team members contributed equally to the completion of the work. I was responsible for the first scenario, which included addressing the initial two research questions. Please refer to the first R script in this repository for my contribution.
 
 
 
